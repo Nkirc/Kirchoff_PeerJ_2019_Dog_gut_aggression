@@ -15,6 +15,7 @@ Raw 16S sequences located [here](http://files.cqls.oregonstate.edu/Sharpton_Lab/
 The code for this project is split into two R scripts. Claatu analysis and metacoder visualization code is in dog_claatu_analysis. All remaining code is found in Dog_Code_PeerJ
 
 files needed for dog_claatu_analysis.R:
+
 	- claatu_counts_rarefied.tab
 	- dog_claatu_tax_dict.tab
 	- mapping_file.txt
