@@ -8,7 +8,9 @@ Data files are located on the Sharpton Lab Repository
 
 Data files used in code located [here](http://files.cqls.oregonstate.edu/Sharpton_Lab/Papers/Kirchoff_PeerJ_2018/data/raw_16S/)
 
-Raw 16S sequences located [here] (http://files.cqls.oregonstate.edu/Sharpton_Lab/Papers/Kirchoff_PeerJ_2018/data/)
+Raw 16S sequences located [here](http://files.cqls.oregonstate.edu/Sharpton_Lab/Papers/Kirchoff_PeerJ_2018/data/)
+
+-----------------------------------------------------------------------
 
 The code for this project is split into two R scripts. Claatu analysis and metacoder visualization code is in dog_claatu_analysis. All remaining code is found in Dog_Code_PeerJ
 
