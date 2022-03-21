@@ -24,6 +24,7 @@ files needed for dog_claatu_analysis.R:
 	- rep_set_tax_assignments.txt
 
 files needed for Dog_Code_PeerJ.R:
+
 	-table_even40000.biom.txt
 	-meta.3.csv
 	-group_significance_Group.txt
