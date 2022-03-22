@@ -33,3 +33,10 @@ files needed for Dog_Code_PeerJ.R:
 
 Raw 16S sequences are in the data directory. Metadata to match barcodes to samples are within files cg_primers_used_1_9_15_miseq and dog_1_15_map_file.txt.
 
+#Dependencies
+
+- R (v 3.2.3)
+- vegan (v 2.3-3)
+- coin (v 1.1-2)
+- qvalue (v 2.2.2)
+
